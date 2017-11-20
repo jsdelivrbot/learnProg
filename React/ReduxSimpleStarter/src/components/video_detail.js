@@ -23,5 +23,3 @@ const VideoDetail = ({video}) => {
 };
 
 export default VideoDetail;
-
-//29.Video Selection

@@ -1,4 +1,14 @@
 mochatest/node_modules
+
+React/ReactSimpleStarter/node_modules
+React/ReactSimpleStarter/bundle.js
+React/ReactSimpleStarter/npm-debug.log
+React/ReactSimpleStarter/.DS_Store
+
+# IntelliJ
+React/ReactSimpleStarter/*.iml
+React/ReactSimpleStarter/.idea
+
 React/ReduxSimpleStarter/node_modules
 React/ReduxSimpleStarter/bundle.js
 React/ReduxSimpleStarter/npm-debug.log

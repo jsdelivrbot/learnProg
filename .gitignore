@@ -8,12 +8,3 @@ React/ReactSimpleStarter/.DS_Store
 # IntelliJ
 React/ReactSimpleStarter/*.iml
 React/ReactSimpleStarter/.idea
-
-React/ReduxSimpleStarter/node_modules
-React/ReduxSimpleStarter/bundle.js
-React/ReduxSimpleStarter/npm-debug.log
-React/ReduxSimpleStarter/.DS_Store
-
-# IntelliJ
-React/ReduxSimpleStarter/*.iml
-React/ReduxSimpleStarter/.idea

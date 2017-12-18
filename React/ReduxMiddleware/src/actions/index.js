@@ -16,8 +16,3 @@ export function fetchWeather(city) {
     payload: request
   };
 }
-
-
-/*
-http://api.openweathermap.org/data/2.5/forecast?appid=7e8d544f194cf77ea8efcdb86955a1e5&q=Chicago,us
-*/
